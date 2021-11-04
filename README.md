@@ -11,7 +11,7 @@ Currently, I don't have any speciality but I'm learning the basic concepts of th
     <img src=https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen />
     <img src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black />
     <img src=https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white />
-    <img src=https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white />
+    <img src=https://img.shields.io/badge/Dart-276DC3?style=for-the-badge&logo=dart&logoColor=white />
   </div>
   
   <br>
@@ -43,7 +43,7 @@ Currently, I don't have any speciality but I'm learning the basic concepts of th
   <img src=https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white />
   <img src=https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white />
   <img src=https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white />
-  <img src=https://img.shields.io/badge/Linux-121011?style=for-the-badge&logo=ubuntu&logoColor=white />
+  <img src=https://img.shields.io/badge/Linux-orange?style=for-the-badge&logo=ubuntu&logoColor=white />
 </div>
 <hr>
 © 2021 GitHub, Inc.
