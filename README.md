@@ -18,7 +18,7 @@ Currently, I don't have any speciality but I'm learning the basic concepts of th
   <div align='center'>
               
   ![hentzrafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=hentzrafael&hide=contribs,issues&count_private=true&show_icons=true&theme=react)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hentzrafael&layout=compact&theme=react&hide=Tcl,plsql)
+  <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hentzrafael&layout=compact&theme=react&hide=Tcl,plsql) -->
        
   </div>
   
