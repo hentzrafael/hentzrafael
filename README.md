@@ -9,8 +9,7 @@ I'm a software developer currently working on Flutter apps. I am studying Inform
   <br>
   <div align='center'>
               
-  ![hentzrafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=hentzrafael&hide=contribs,issues&count_private=true&show_icons=true&theme=react)
-       
+  <!--![hentzrafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=hentzrafael&hide=contribs,issues&count_private=true&show_icons=true&theme=react)-->       
   </div>
   
   <div align='center'>
